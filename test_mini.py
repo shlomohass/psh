@@ -1,4 +1,4 @@
-#test file
+# test file
 
 from mini import Mini
 
@@ -50,5 +50,3 @@ def test_factorial():
     '''
     assert Mini().eval(source)[1:] == [1, 120]
 
-
-# github.com/halst/mini
